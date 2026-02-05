@@ -21,5 +21,5 @@ My goal is to become a freelance ML engineer and work on real-world problems.
 - ML Project 2: Regression Model
 
 ## 📫 Contact
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/kamran15611-code
 
