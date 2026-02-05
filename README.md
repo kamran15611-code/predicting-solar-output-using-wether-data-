@@ -1,2 +1,25 @@
-# predicting-solar-output-using-wether-data-
-Solar Power Output Prediction using Weather Data This project predicts solar power generation using historical weather data. I cleaned and analyzed the data, explored patterns using EDA, and trained a regression model to estimate power output. The project helped me understand real-world energy data and ML workflows.
+# Hi, I'm Kamran Khan 👋
+
+## 🎓 About Me
+I am a Physics student learning Machine Learning and Data Science.
+My goal is to become a freelance ML engineer and work on real-world problems.
+
+## 🧠 Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib & Seaborn
+- Scikit-learn (learning)
+- Data Cleaning & EDA
+
+## 📊 Machine Learning Journey
+- Day 1: Environment setup, basic EDA, KDE
+- Day 2: Data cleaning and visualization (ongoing)
+
+## 🚀 Projects (Coming Soon)
+- ML Project 1: Data Cleaning & Analysis
+- ML Project 2: Regression Model
+
+## 📫 Contact
+- GitHub: https://github.com/yourusername
+
