@@ -25,7 +25,7 @@ This project was built as part of my hands-on Machine Learning journey, where I 
 ## 📊 Sample Output
 Here’s an example of the model’s prediction compared to actual solar power output:  
 
-![Sample Plot](screenshot1.png)  
+![screenshot1](screenshot1.png)  
 
 *The plot shows how closely the predicted solar power matches the actual output.*
 
@@ -35,7 +35,7 @@ Here’s an example of the model’s prediction compared to actual solar power o
 1. Clone the repository:  
 ```bash
 git clone https://github.com/kamran15611-code/predicting-solar-output-using-weather-data.git
-2. Open the notebook Solar_Power_Prediction.ipynb in Jupyter Notebook
+2. Open the notebook project.ipynb in Jupyter Notebook
 
 3 . Run all cells to reproduce the analysis, plots, and predictions
 
